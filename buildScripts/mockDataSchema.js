@@ -1,7 +1,7 @@
 export const schema = {
     "type": "object",
     "properties": {
-        "users": {
+        "runDetails": {
             "type": "array",
             "minItems": 30,
             "maxItems": 50,
@@ -41,7 +41,27 @@ export const schema = {
                 },
                 "required": ["ldate", "providerName", "run", "vehicle"]
             }
+        },
+        "supervisors": {
+            "type": "array",
+            "minItems": 4,
+            "maxItems": 4,
+            "items": {
+                "type": "object",
+                "properties": {
+                    "id": {
+                        "type": "number",
+                        "minimum": 1
+                    },
+                    "supervisorName": {
+                        "type": "string",
+                        "unique": "true",
+                        "pattern": "Smith, John|Jones, Michael|Miller, Jane|Parr, Ryan|Simon, Ken|Murray, Nicole|Scruggs, Donald|Rich, Kenn|Wilson, Calvin"
+                    }
+                },
+                "required": ["id", "supervisorName"]
+            }
         }
     },
-    "required": ["users"]
+    "required": ["runDetails", "supervisors"]
 };

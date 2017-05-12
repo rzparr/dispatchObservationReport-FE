@@ -1,1 +1,376 @@
-{"users":[{"ldate":"20170511","providerName":"T_SUNTAXI","run":1213,"vehicle":4921},{"ldate":"20170511","providerName":"D_FT_CAPHT","run":2090,"vehicle":4653,"radio":"FG112"},{"ldate":"20170511","providerName":"T_SUNTAXI","run":3021,"vehicle":4891,"operatorFirstName":"Kieran","radio":"VT220","operatorLastName":"Torphy"},{"ldate":"20170511","providerName":"D_FT_CAPHT","run":1575,"vehicle":4855,"operatorLastName":"Bogan","radio":"FG112","operatorFirstName":"Daphnee"},{"ldate":"20170511","providerName":"D_DTS_SR","run":1830,"vehicle":4508,"operatorLastName":"Oberbrunner","operatorFirstName":"Tommie"},{"ldate":"20170511","providerName":"D_FT_GAITH","run":1521,"vehicle":4715,"operatorLastName":"Fay","radio":"FC165","operatorFirstName":"Johathan"},{"ldate":"20170511","providerName":"D_FT_GAITH","run":1340,"vehicle":4991,"operatorFirstName":"Bulah"},{"ldate":"20170511","providerName":"D_FT_GAITH","run":1474,"vehicle":4514},{"ldate":"20170511","providerName":"D_DTS_SR","run":3261,"vehicle":4655,"operatorLastName":"Keebler","operatorFirstName":"Tess"},{"ldate":"20170511","providerName":"T_ACTION","run":3273,"vehicle":4950,"operatorFirstName":"Alexzander","operatorLastName":"Erdman"},{"ldate":"20170511","providerName":"D_DTS_SR","run":4308,"vehicle":4702,"radio":"VT220"},{"ldate":"20170511","providerName":"D_DTS_SR","run":1367,"vehicle":4502},{"ldate":"20170511","providerName":"T_ACTION","run":3873,"vehicle":4746,"radio":"FC165","operatorLastName":"Kozey"},{"ldate":"20170511","providerName":"D_FT_CAPHT","run":4182,"vehicle":4624,"radio":"FC165","operatorLastName":"Botsford","operatorFirstName":"Norbert"},{"ldate":"20170511","providerName":"D_FT_CAPHT","run":2428,"vehicle":4646,"operatorFirstName":"Turner"},{"ldate":"20170511","providerName":"D_TD_HUB","run":1457,"vehicle":4606,"radio":"FG112"},{"ldate":"20170511","providerName":"D_DTS_SF","run":2362,"vehicle":4683,"operatorLastName":"Dicki","operatorFirstName":"Warren","radio":"VT220"},{"ldate":"20170511","providerName":"T_REDTOP","run":4280,"vehicle":4905,"operatorFirstName":"Khalid","radio":"FG112"},{"ldate":"20170511","providerName":"D_FT_GAITH","run":4794,"vehicle":4977,"operatorLastName":"Bode","radio":"VT220","operatorFirstName":"Alexa"},{"ldate":"20170511","providerName":"D_TD_HUB","run":3427,"vehicle":4896,"radio":"DV123"},{"ldate":"20170511","providerName":"D_FT_GAITH","run":3694,"vehicle":4695,"operatorFirstName":"Armani","operatorLastName":"Denesik","radio":"DV123"},{"ldate":"20170511","providerName":"T_ACTION","run":5000,"vehicle":4689},{"ldate":"20170511","providerName":"T_SUNTAXI","run":4785,"vehicle":4663,"radio":"FG112"},{"ldate":"20170511","providerName":"D_TD_HUB","run":4523,"vehicle":4693,"operatorFirstName":"Kacie","radio":"VT220","operatorLastName":"Mitchell"},{"ldate":"20170511","providerName":"T_ACTION","run":2879,"vehicle":4803,"operatorLastName":"Paucek"},{"ldate":"20170511","providerName":"D_TD_HUB","run":4155,"vehicle":4872,"operatorFirstName":"Jalyn"},{"ldate":"20170511","providerName":"T_SUNTAXI","run":1500,"vehicle":4997},{"ldate":"20170511","providerName":"D_DTS_SR","run":2177,"vehicle":4756,"radio":"FG112","operatorLastName":"Toy","operatorFirstName":"Sarina"},{"ldate":"20170511","providerName":"T_ACTION","run":1666,"vehicle":4706},{"ldate":"20170511","providerName":"D_FT_CAPHT","run":3560,"vehicle":4853,"radio":"FG112"},{"ldate":"20170511","providerName":"T_SUNTAXI","run":1692,"vehicle":4809,"operatorLastName":"Bauch","radio":"DV123"},{"ldate":"20170511","providerName":"D_TD_HUB","run":2873,"vehicle":4763,"operatorLastName":"Wolf","operatorFirstName":"Madge"},{"ldate":"20170511","providerName":"D_DTS_SF","run":3533,"vehicle":4632},{"ldate":"20170511","providerName":"D_FT_GAITH","run":2753,"vehicle":4664},{"ldate":"20170511","providerName":"D_FT_GAITH","run":3822,"vehicle":4730},{"ldate":"20170511","providerName":"D_DTS_SF","run":2433,"vehicle":4930,"operatorLastName":"Macejkovic"},{"ldate":"20170511","providerName":"D_DTS_SR","run":1002,"vehicle":4919,"operatorFirstName":"Nelle"},{"ldate":"20170511","providerName":"T_SUNTAXI","run":4387,"vehicle":4518,"operatorLastName":"Zieme","operatorFirstName":"Kathlyn","radio":"VT220"},{"ldate":"20170511","providerName":"T_SUNTAXI","run":1130,"vehicle":4968,"radio":"FC165","operatorLastName":"Kozey","operatorFirstName":"Sonia"},{"ldate":"20170511","providerName":"D_DTS_SF","run":3354,"vehicle":4760},{"ldate":"20170511","providerName":"T_REDTOP","run":3573,"vehicle":4794,"operatorLastName":"Marvin","operatorFirstName":"Kathleen"},{"ldate":"20170511","providerName":"D_DTS_SF","run":4839,"vehicle":4919,"radio":"DV123","operatorFirstName":"Jaydon","operatorLastName":"Koepp"},{"ldate":"20170511","providerName":"D_FT_CAPHT","run":2219,"vehicle":4554},{"ldate":"20170511","providerName":"D_DTS_SR","run":3733,"vehicle":4787,"radio":"FC165","operatorLastName":"Paucek","operatorFirstName":"Samanta"},{"ldate":"20170511","providerName":"D_FT_GAITH","run":2230,"vehicle":4527,"radio":"FC165","operatorLastName":"Mosciski","operatorFirstName":"Justine"},{"ldate":"20170511","providerName":"D_FT_GAITH","run":2563,"vehicle":4632},{"ldate":"20170511","providerName":"D_FT_GAITH","run":3188,"vehicle":4643,"radio":"FG112","operatorLastName":"Reinger","operatorFirstName":"Kiera"},{"ldate":"20170511","providerName":"D_TD_HUB","run":3094,"vehicle":4584,"operatorLastName":"Roob","operatorFirstName":"Dejah","radio":"VT220"},{"ldate":"20170511","providerName":"T_REDTOP","run":1392,"vehicle":4580,"operatorLastName":"Doyle"},{"ldate":"20170511","providerName":"D_FT_GAITH","run":2656,"vehicle":4707}]}
+{
+  "runDetails": [
+    {
+      "ldate": "20170511",
+      "providerName": "D_FT_GAITH",
+      "run": 3722,
+      "vehicle": 4553
+    },
+    {
+      "ldate": "20170511",
+      "providerName": "T_SUNTAXI",
+      "run": 3275,
+      "vehicle": 4939,
+      "operatorLastName": "Bartoletti",
+      "radio": "VT220",
+      "operatorFirstName": "Antonetta"
+    },
+    {
+      "ldate": "20170511",
+      "providerName": "D_FT_CAPHT",
+      "run": 3842,
+      "vehicle": 4927
+    },
+    {
+      "ldate": "20170511",
+      "providerName": "D_FT_GAITH",
+      "run": 2709,
+      "vehicle": 4547
+    },
+    {
+      "ldate": "20170511",
+      "providerName": "D_TD_HUB",
+      "run": 3156,
+      "vehicle": 4517,
+      "operatorFirstName": "Jamey",
+      "radio": "DV123"
+    },
+    {
+      "ldate": "20170511",
+      "providerName": "D_TD_HUB",
+      "run": 3909,
+      "vehicle": 4860,
+      "radio": "FG112"
+    },
+    {
+      "ldate": "20170511",
+      "providerName": "T_REDTOP",
+      "run": 4703,
+      "vehicle": 4565,
+      "radio": "FC165",
+      "operatorFirstName": "Loyal",
+      "operatorLastName": "Sipes"
+    },
+    {
+      "ldate": "20170511",
+      "providerName": "T_REDTOP",
+      "run": 2006,
+      "vehicle": 4927,
+      "operatorLastName": "Daugherty",
+      "operatorFirstName": "Vickie"
+    },
+    {
+      "ldate": "20170511",
+      "providerName": "D_FT_CAPHT",
+      "run": 3248,
+      "vehicle": 4914,
+      "operatorLastName": "Blanda"
+    },
+    {
+      "ldate": "20170511",
+      "providerName": "D_DTS_SF",
+      "run": 3203,
+      "vehicle": 4637,
+      "operatorFirstName": "Sam",
+      "radio": "FG112"
+    },
+    {
+      "ldate": "20170511",
+      "providerName": "D_FT_GAITH",
+      "run": 3289,
+      "vehicle": 4708,
+      "operatorFirstName": "Allen",
+      "operatorLastName": "Kemmer"
+    },
+    {
+      "ldate": "20170511",
+      "providerName": "T_SUNTAXI",
+      "run": 2470,
+      "vehicle": 4510,
+      "radio": "DV123"
+    },
+    {
+      "ldate": "20170511",
+      "providerName": "D_FT_CAPHT",
+      "run": 1015,
+      "vehicle": 4618,
+      "operatorFirstName": "Ephraim",
+      "radio": "DV123",
+      "operatorLastName": "Vandervort"
+    },
+    {
+      "ldate": "20170511",
+      "providerName": "D_DTS_SR",
+      "run": 3317,
+      "vehicle": 4568
+    },
+    {
+      "ldate": "20170511",
+      "providerName": "D_FT_GAITH",
+      "run": 2552,
+      "vehicle": 4670,
+      "operatorFirstName": "Brown",
+      "radio": "VT220"
+    },
+    {
+      "ldate": "20170511",
+      "providerName": "D_FT_CAPHT",
+      "run": 1532,
+      "vehicle": 4675,
+      "operatorLastName": "O'Hara",
+      "operatorFirstName": "Lori"
+    },
+    {
+      "ldate": "20170511",
+      "providerName": "T_ACTION",
+      "run": 3209,
+      "vehicle": 4752,
+      "operatorFirstName": "Jordyn",
+      "operatorLastName": "Abbott",
+      "radio": "FC165"
+    },
+    {
+      "ldate": "20170511",
+      "providerName": "D_FT_CAPHT",
+      "run": 2486,
+      "vehicle": 4680,
+      "operatorFirstName": "Lila"
+    },
+    {
+      "ldate": "20170511",
+      "providerName": "D_FT_CAPHT",
+      "run": 1521,
+      "vehicle": 4617,
+      "operatorFirstName": "Joannie",
+      "operatorLastName": "Harvey"
+    },
+    {
+      "ldate": "20170511",
+      "providerName": "D_DTS_SF",
+      "run": 2213,
+      "vehicle": 4670
+    },
+    {
+      "ldate": "20170511",
+      "providerName": "T_ACTION",
+      "run": 1229,
+      "vehicle": 4979,
+      "radio": "DV123",
+      "operatorLastName": "Predovic"
+    },
+    {
+      "ldate": "20170511",
+      "providerName": "D_TD_HUB",
+      "run": 3435,
+      "vehicle": 4973
+    },
+    {
+      "ldate": "20170511",
+      "providerName": "D_TD_HUB",
+      "run": 1511,
+      "vehicle": 4956
+    },
+    {
+      "ldate": "20170511",
+      "providerName": "D_DTS_SF",
+      "run": 3048,
+      "vehicle": 4551,
+      "operatorFirstName": "Reese",
+      "radio": "VT220"
+    },
+    {
+      "ldate": "20170511",
+      "providerName": "T_REDTOP",
+      "run": 2559,
+      "vehicle": 4528,
+      "operatorLastName": "Osinski"
+    },
+    {
+      "ldate": "20170511",
+      "providerName": "D_DTS_SR",
+      "run": 3409,
+      "vehicle": 4962,
+      "operatorFirstName": "Elwin",
+      "radio": "VT220",
+      "operatorLastName": "Fritsch"
+    },
+    {
+      "ldate": "20170511",
+      "providerName": "T_REDTOP",
+      "run": 1969,
+      "vehicle": 4723,
+      "operatorFirstName": "Tyson",
+      "operatorLastName": "Fahey"
+    },
+    {
+      "ldate": "20170511",
+      "providerName": "T_REDTOP",
+      "run": 3971,
+      "vehicle": 4662,
+      "operatorFirstName": "Sydni",
+      "operatorLastName": "Ankunding",
+      "radio": "VT220"
+    },
+    {
+      "ldate": "20170511",
+      "providerName": "D_DTS_SF",
+      "run": 4830,
+      "vehicle": 4708
+    },
+    {
+      "ldate": "20170511",
+      "providerName": "D_TD_HUB",
+      "run": 2228,
+      "vehicle": 4529,
+      "radio": "VT220",
+      "operatorLastName": "Windler"
+    },
+    {
+      "ldate": "20170511",
+      "providerName": "D_FT_CAPHT",
+      "run": 3110,
+      "vehicle": 4611
+    },
+    {
+      "ldate": "20170511",
+      "providerName": "D_DTS_SF",
+      "run": 1291,
+      "vehicle": 4988,
+      "radio": "VT220",
+      "operatorFirstName": "Delia"
+    },
+    {
+      "ldate": "20170511",
+      "providerName": "T_REDTOP",
+      "run": 3606,
+      "vehicle": 4852
+    },
+    {
+      "ldate": "20170511",
+      "providerName": "T_ACTION",
+      "run": 3923,
+      "vehicle": 4519,
+      "operatorLastName": "Walker",
+      "operatorFirstName": "Molly",
+      "radio": "DV123"
+    },
+    {
+      "ldate": "20170511",
+      "providerName": "T_SUNTAXI",
+      "run": 3271,
+      "vehicle": 4591,
+      "operatorLastName": "Stiedemann"
+    },
+    {
+      "ldate": "20170511",
+      "providerName": "T_REDTOP",
+      "run": 3172,
+      "vehicle": 4537,
+      "operatorLastName": "Carroll",
+      "radio": "VT220"
+    },
+    {
+      "ldate": "20170511",
+      "providerName": "D_DTS_SF",
+      "run": 3699,
+      "vehicle": 4734
+    },
+    {
+      "ldate": "20170511",
+      "providerName": "T_REDTOP",
+      "run": 1903,
+      "vehicle": 4743
+    },
+    {
+      "ldate": "20170511",
+      "providerName": "D_DTS_SF",
+      "run": 2349,
+      "vehicle": 4616
+    },
+    {
+      "ldate": "20170511",
+      "providerName": "T_ACTION",
+      "run": 4598,
+      "vehicle": 4754,
+      "operatorFirstName": "Rory",
+      "radio": "DV123",
+      "operatorLastName": "Dibbert"
+    },
+    {
+      "ldate": "20170511",
+      "providerName": "T_SUNTAXI",
+      "run": 3801,
+      "vehicle": 4966
+    },
+    {
+      "ldate": "20170511",
+      "providerName": "T_ACTION",
+      "run": 3759,
+      "vehicle": 4538,
+      "operatorLastName": "Schaden",
+      "radio": "VT220",
+      "operatorFirstName": "Kenya"
+    },
+    {
+      "ldate": "20170511",
+      "providerName": "T_ACTION",
+      "run": 3803,
+      "vehicle": 4644,
+      "radio": "FG112",
+      "operatorFirstName": "Carol"
+    },
+    {
+      "ldate": "20170511",
+      "providerName": "T_ACTION",
+      "run": 2902,
+      "vehicle": 4872,
+      "radio": "DV123",
+      "operatorLastName": "Rowe"
+    },
+    {
+      "ldate": "20170511",
+      "providerName": "D_DTS_SF",
+      "run": 2089,
+      "vehicle": 4769,
+      "operatorFirstName": "Sister",
+      "operatorLastName": "Upton"
+    },
+    {
+      "ldate": "20170511",
+      "providerName": "D_DTS_SF",
+      "run": 3496,
+      "vehicle": 4789,
+      "radio": "FG112",
+      "operatorFirstName": "Garth",
+      "operatorLastName": "Christiansen"
+    },
+    {
+      "ldate": "20170511",
+      "providerName": "D_DTS_SF",
+      "run": 3919,
+      "vehicle": 4647,
+      "operatorFirstName": "Madeline"
+    },
+    {
+      "ldate": "20170511",
+      "providerName": "D_TD_HUB",
+      "run": 2052,
+      "vehicle": 4932,
+      "radio": "DV123"
+    }
+  ],
+  "supervisors": [
+    {
+      "id": 40424794,
+      "supervisorName": "Murray, Nicole"
+    },
+    {
+      "id": 29866556,
+      "supervisorName": "Miller, Jane"
+    },
+    {
+      "id": 96605782,
+      "supervisorName": "Smith, John"
+    }
+  ]
+}
