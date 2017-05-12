@@ -3,30 +3,43 @@ export const schema = {
     "properties": {
         "users": {
             "type": "array",
-            "minItems": 3,
-            "maxItems": 5,
+            "minItems": 30,
+            "maxItems": 50,
             "items": {
                 "type": "object",
                 "properties": {
-                    "id": {
-                        "type": "number",
-                        "unique": true,
-                        "minimum": 1
-                    },
-                    "firstName": {
+                    "ldate": {
                         "type": "string",
-                        "faker": "name.firstName"
+                        "pattern": "20170511"
                     },
-                    "lastName": {
+                    "providerName": {
+                        "type": "string",
+                        "pattern": "D_DTS_SF|D_DTS_SR|D_FT_GAITH|D_FT_CAPHT|D_TD_HUB|T_REDTOP|T_SUNTAXI|T_ACTION"
+                    },
+                    "run": {
+                        "type": "number",
+                        "minimum": 1000,
+                        "maximum": 5000
+                    },
+                    "vehicle": {
+                        "type": "number",
+                        "minimum": 4500,
+                        "maximum": 5000
+                    },
+                    "operatorLastName": {
                         "type": "string",
                         "faker": "name.lastName"
                     },
-                    "email": {
+                    "operatorFirstName": {
                         "type": "string",
-                        "faker": "internet.email"
+                        "faker": "name.firstName"
+                    },
+                    "radio": {
+                        "type": "string",
+                        "pattern": "DV123|VT220|FG112|FC165"
                     }
                 },
-                "required": ["id", "firstName", "lastName", "email"]
+                "required": ["ldate", "providerName", "run", "vehicle"]
             }
         }
     },
